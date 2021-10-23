@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/main.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <section class="intro lax lax_preset_fadeInOut:205.25:0 lax_preset_blurOur:205.25:20">
+        <p class="scroll-text">Scroll Me Down</p>
+    </section>
+
+    <section class="anim">
+        <h1 class="lax lax_preset_fadeInOut:205.25:0 lax_preset_seesaw:140:20">Animated</h1>
+        <p class="desc">Here i am using Laxxx.Js for the scroll animation , Do check it NPM now</p>
+        <div class="box1 lax lax_preset_fadeIn:30:50 lax_preset_spin" ></div>
+        <div class="box2 lax lax_preset_fadeInOut:205.25:0 lax_preset_flipY:821:360"></div>
+    </section>
+
+    <section></section>
+    
+    <script src="node_modules/lax.js/lib/lax.min.js"></script>
+
+    <script>
+       window.onload = function () {
+    lax.init()
+
+    // Add a driver that we use to control our animations
+    lax.addDriver('scrollY', function () {
+      return window.scrollY
+    })
+
+    // Add animation bindings to elements
+    lax.addElements('.selector', {
+      scrollY: {
+        translateX: [
+          ["elInY", "elCenterY", "elOutY"],
+          [0, 'screenWidth/2', 'screenWidth'],
+        ]
+      }
+    })
+  }
+
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,81 @@
+newmtl Sphere material_851dde19-6466-43a2-927a-0b95d3b8c5b5
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl Light Blue To Blue_6fe3c14b-fb47-47e6-ba3f-449d00a6bf8d
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd gradient29.jpg
+newmtl Material 36_d44d23ac-8743-4085-af7c-d6df794678d1
+Kd 0.904 0.489 0.230
+d 1.000
+newmtl Violet to Violet_4aeb2194-676b-46b2-99e7-c02689817dc1
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd gradient38.jpg
+newmtl Red to Orange_2757d77f-becb-48e8-a450-5922eb7ad9c8
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd gradient37.jpg
+newmtl Material 32_85c87ab8-38a0-4b53-8a3d-05470532d2d8
+Kd 0.904 0.904 0.904
+d 1.000
+newmtl Material 31_ace0fef1-65c4-48b6-a6b3-c2b7c2009b27
+Kd 0.904 0.135 0.066
+d 1.000
+newmtl Material 30_1938dafe-29cd-4380-80e0-b118b4e32fb5
+Kd 0.072 0.072 0.072
+d 1.000
+newmtl Material 34_87496936-9ae0-4e98-8b01-6cb09bb13fd3
+Kd 0.904 0.135 0.066
+d 1.000
+newmtl Material 33_86b647c9-7647-4169-a468-6d2d5de31954
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Material 29_f2a1c12d-d044-4f90-886a-beb6e6dafcb2
+Kd 0.904 0.725 0.431
+d 1.000
+newmtl Material 35_f5e402b9-7e4c-4fe8-a98e-2b5c8f9063e9
+Kd 0.904 0.489 0.230
+d 1.000
+newmtl White material_6a27ef3e-f92b-4ee8-9f97-051e92ce776e
+Kd 0.904 0.904 0.904
+d 1.000
+newmtl Blue material_e838279c-1821-445b-b691-84f519206f67
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Material 60_1ffc8945-8022-42f4-bddc-1cf6e74e5b79
+Kd 0.904 0.135 0.066
+d 1.000
+newmtl Material 61_6a3c12a1-4fb0-4a87-82f2-976c621eb37c
+Kd 0.904 0.489 0.230
+d 1.000
+newmtl Ochre to Yellow_43b47983-10f3-4076-8a5c-26228c8beaaa
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd gradient46.jpg
+newmtl Green to Blue_c722e488-7b3a-4ad5-bccf-0749f1eaf32e
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd gradient54.jpg
+newmtl Material 1_29228496-9322-4c6b-886a-c8b3382ce801
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd colorTexture&opacityTexture.png
+newmtl Object material_ddee5c9b-e5a4-422a-a44f-9d35bd780ddb
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Object material 1_4e6557f0-73d5-45ac-a440-36ffa05241d1
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Material_a19a21c1-e77e-446f-b4d1-49d2e07b594d
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Material 4_a8e06d90-2607-46cf-b77a-e2626aed96e8
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Material 2_8f725c30-9e5f-4ef2-a158-73c51897a637
+Kd 0.059 0.059 0.059
+d 1.000
+newmtl Material 3_8132dff5-97ff-4798-b667-6d251258dd2d
+Kd 1.000 0.765 0.259
+d 1.000
